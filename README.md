@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in solving complex prob
 
 ## 📫 How to Reach Me
 
-- **Email:** guilhermebariao@example.com
+- **Email:** guilherme.the.silva@escola.pr.gov.br
 - **LinkedIn:** [Guilherme Bariao](https://www.linkedin.com/in/guilhermebariao/)
 - **Twitter:** [@guilhermebariao](https://twitter.com/guilhermebariao)
 
