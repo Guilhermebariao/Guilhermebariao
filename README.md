@@ -25,8 +25,8 @@ I'm a passionate software developer with a keen interest in solving complex prob
 ## 📫 How to Reach Me
 
 - **Email:** guilherme.the.silva@escola.pr.gov.br
-- **LinkedIn:** [Guilherme Bariao](https://www.linkedin.com/in/guilhermebariao/)
-- **Twitter:** [@guilhermebariao](https://twitter.com/guilhermebariao)
+- **LinkedIn:** [Guilherme Barião](https://www.linkedin.com/in/guilhermebariao/)
+- **Twitter:** [@guilhermebarião](https://twitter.com/guilhermebariao)
 
 ## 🌟 Projects
 
